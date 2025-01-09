@@ -8,11 +8,11 @@
 <h6 align="center">/ˌvaɪˈtæl/</h6>
 
 <h6 align="center">
-  <a href="https://github.com/vitaale/vitaale#-palette">Palette</a>
+  <a href="https://github.com/vitaale/vitaale#palette">Palette</a>
   ·
-  <a href="https://github.com/vitaale/vitaale#-ports-and-more">Ports</a>
+  <a href="https://github.com/vitaale/vitaale#ports-and-more">Ports</a>
   ·
-  <a href="https://github.com/vitaale/vitaale#-showcase">Showcase</a>
+  <a href="https://github.com/vitaale/vitaale#showcase">Showcase</a>
 </h6>
 
 <p align="center">
