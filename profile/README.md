@@ -28,7 +28,7 @@
 &nbsp;
 
 <p align="center">
-  Vitale started as my personal loved theme and hopefully will be loved by many more.
+  Vitaale started as my personal loved theme and hopefully will be loved by many more.
 </p>
 
 &nbsp;
